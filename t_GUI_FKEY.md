@@ -7,66 +7,129 @@ VKey Keyboard Combination
 01 <kbd>F1</kbd>
 
 02 <kbd>F2 </kbd>
+
 03 <kbd>F3 </kbd>
-04 F4 
-05 F5 
-06 F6 
-07 F7 
-08 F8 
-09 F9 
-10 F10 
-11 Ctrl+S 
-12 F12 
-13 Shift+F1 
-14 Shift+F2 
-15 Shift+F3 
-16 Shift+F4 
+
+04<kbd> F4 </kbd>
+
+05<kbd> F5 </kbd>
+
+06<kbd> F6 </kbd>
+
+07<kbd> F7 </kbd>
+
+08<kbd> F8 </kbd>
+
+09 <kbd>F9 </kbd>
+
+10 F<kbd>10 </kbd>
+
+11 Ctrl+<kbd>S </kbd>
+
+12 <kbd>F12 </kbd>
+
+13 Shift+<kbd>F1 </kbd>
+
+14 Shift+<kbd>F2 </kbd>
+
+15 Shift+<kbd>F3 </kbd>
+
+16 Shift+<kbd>F4 </kbd>
+
 17 Shift+F5 
+
 18 Shift+F6 
+
 19 Shift+F7
+
 20 Shift+F8 
+
 21 Shift+F9 
+
 22 Shift+Ctrl+0 
-23 Shift+F11 
-24 Shift+F12 
-25 Ctrl+F1 
-26 Ctrl+F2 
-27 Ctrl+F3 
-28 Ctrl+F4 
-29 Ctrl+F5 
-30 Ctrl+F6 
-31 Ctrl+F7 
-32 Ctrl+F8 
-33 Ctrl+F9 
-34 Ctrl+F10 
-35 Ctrl+F11 
-36 Ctrl+F12 
-37 Ctrl+Shift+F1 
-38 Ctrl+Shift+F2 
-39 Ctrl+Shift+F3 
-40 Ctrl+Shift+F4 
-41 Ctrl+Shift+F5 
-42 Ctrl+Shift+F6 
-43 Ctrl+Shift+F7 
-44 Ctrl+Shift+F8 
-45 Ctrl+Shift+F9 
-46 Ctrl+Shift+F10
-47 Ctrl+Shift+F11
-48 Ctrl+Shift+F12 
-70 Ctrl+E 
-71 Ctrl+F 
-72 Ctrl+/ 
-73 Ctrl+\ 
-74 Ctrl+N
-75 Ctrl+O 
-76 Ctrl+X 
-77 Ctrl+C 
-78 Ctrl+V 
-79 <kbd>Ctrl</kbd>+Z 
+
+23 Shift+<kbd>F11 </kbd>
+
+24 Shift+<kbd>F12 </kbd>
+
+25 Ctrl+<kbd>F1 </kbd>
+
+26 Ctrl+<kbd>F2 </kbd>
+
+27 Ctrl+<kbd>F3 </kbd>
+
+28 Ctrl+<kbd>F4 </kbd>
+
+29 Ctrl+<kbd>F5 </kbd>
+
+30 Ctrl+<kbd>F6 </kbd>
+
+31 Ctrl+<kbd>F7 </kbd>
+
+32 Ctrl+<kbd>F8 </kbd>
+
+33 Ctrl+<kbd>F9 </kbd>
+
+34 Ctrl+<kbd>F10 </kbd>
+
+35 Ctrl+<kbd>F11 </kbd>
+
+36 Ctrl+<kbd>F12 </kbd>
+
+37 Ctrl+Shift+<kbd>F1 </kbd>
+
+38 Ctrl+Shift+<kbd>F2 </kbd>
+
+39 Ctrl+Shit+<kbd>F3 </kbd>
+
+40 Ctrl+Shift+F4 </kbd>
+
+41 Ctrl+Shift+F5 </kbd>
+
+42 Ctrl+Shift+F6 </kbd>
+
+43 Ctrl+Shift+F7 </kbd>
+
+44 Ctrl+Shift+F8 </kbd>
+
+45 Ctrl+Shift+F9 </kbd>
+
+46 Ctrl+Shift+F10</kbd>
+
+47 Ctrl+Shift+F11</kbd>
+
+48 Ctrl+Shift+F12 </kbd>
+
+70 Ctrl<kbd>+E </kbd>
+
+71 Ctrl+<kbd>F </kbd>
+
+72 Ctrl+<kbd>/ </kbd>
+
+73 Ctrl+<kbd>\ </kbd>
+
+74 Ctrl+<kbd>N</kbd>
+
+75 Ctrl+<kbd>O </kbd>
+
+76 Ctrl+<kbd>X </kbd>
+
+77 Ctrl+<kbd>C </kbd>
+
+78 <kbd>Ctrl</kbd>+<kbd>V </kbd>
+
+79 <kbd>Ctrl</kbd>+Z </kbd>
+
 80 <kbd>Ctrl+PageUp </kbd>
+
 81 <kbd>PageUp </kbd>
+
 82 <kbd>PageDown </kbd>
+
 83 <kbd>Ctrl</kbd>+<kbd>PageDown </kbd>
-84 Ctrl+<kbd>G </kbd>
+
+84 <kbd>Ctrl</kbd>+<kbd>G </kbd>
+
 85 <kbd>Ctrl</kbd>+<kbd>R </kbd>
+
 86 <kbd>Ctrl</kbd>+<kbd>P</kbd>
