@@ -1,8 +1,8 @@
 Table GUI_FKEY
 
 VKey Keyboard Combination 
-00 Enter 
-01 F1 
+00 <kbd>Enter</kbd> 
+01 <kbd>F1</kbd>
 02 F2 
 03 F3 
 04 F4 
