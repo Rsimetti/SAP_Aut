@@ -1,10 +1,13 @@
 Table GUI_FKEY
 
-VKey Keyboard Combination 
+VKey Keyboard Combination
+
 00 <kbd>Enter</kbd> 
+
 01 <kbd>F1</kbd>
-02 F2 
-03 F3 
+
+02 <kbd>F2 </kbd>
+03 <kbd>F3 </kbd>
 04 F4 
 05 F5 
 06 F6 
@@ -59,11 +62,11 @@ VKey Keyboard Combination
 76 Ctrl+X 
 77 Ctrl+C 
 78 Ctrl+V 
-79 Ctrl+Z 
-80 Ctrl+PageUp 
-81 PageUp 
-82 PageDown 
-83 Ctrl+PageDown 
-84 Ctrl+G 
-85 Ctrl+R 
-86 Ctrl+P
+79 <kbd>Ctrl</kbd>+Z 
+80 <kbd>Ctrl+PageUp </kbd>
+81 <kbd>PageUp </kbd>
+82 <kbd>PageDown </kbd>
+83 <kbd>Ctrl</kbd>+<kbd>PageDown </kbd>
+84 Ctrl+<kbd>G </kbd>
+85 <kbd>Ctrl</kbd>+<kbd>R </kbd>
+86 <kbd>Ctrl</kbd>+<kbd>P</kbd>
